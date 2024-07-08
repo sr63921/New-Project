@@ -1,2 +1,2 @@
 # new-project
-this is my new htmal project
+this is my new html project
